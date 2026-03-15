@@ -58,5 +58,4 @@ Tải toàn bộ thư mục dự án này về máy tính của bạn và giải
 5. Nhấn **Bắt Đầu** và quan sát: hệ thống sẽ tự động khởi tạo các luồng dò quét, sinh ngẫu nhiên số lượng lớn mật khẩu rồi chuyển sang quét theo danh sách từ điển và bắt thẻ ngân hàng người dùng thành công!
 
 *Tài khoản thẻ thử nghiệm mặc định của dự án:*
-- Username: `nguyen` / Password: `H.z050719`
 - Username: `user1`, `user2`, v.v... / Password: `123123`
